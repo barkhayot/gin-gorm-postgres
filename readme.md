@@ -57,6 +57,6 @@ The server will start at http://localhost:8080 by default.
 
 Dependencies
 
-<b>Gin</b> - Web framework
-<b>Gorm</b> - ORM library
-<b>PostgreSQL</b> - Database
+- <b>Gin</b> - Web framework
+- <b>Gorm</b> - ORM library
+- <b>PostgreSQL</b> - Database
